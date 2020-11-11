@@ -1,6 +1,7 @@
 # springboot
 postgres springboot
 
+```
 CREATE TABLE public.poire
 (
 	id SERIAL PRIMARY KEY NOT NULL,
@@ -16,4 +17,4 @@ insert into poire(saison) values ('printemps');
 insert into poire(saison) values ('été');
 insert into poire(saison) values ('automne');
 insert into poire(saison) values ('hiver');
-
+```
